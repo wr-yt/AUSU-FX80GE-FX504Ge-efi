@@ -1,8 +1,6 @@
 # AUSU-FX80GE-FX504Ge-efi
 
-
-
-![image-20190313160326203](/Users/yangtao/Library/Application Support/typora-user-images/image-20190313160326203.png)
+![Image text](https://raw.githubusercontent.com/angeljavan/AUSU-FX80GE-FX504Ge-efi/master/img/FXGE80GE-EFI.png)
 
 这个是我个人的efi 同样适用于同样型号的这款笔记本。
 
